@@ -51,16 +51,16 @@
   cursor: pointer;
 }
 .btn3{
-  color: white;
-  padding: 15px 50px 10px 50px;
-  background-color: #F26622;
+  background-color: #f26622;
   border: none;
-  position: absolute;
-  bottom: 0;
-  font-size: 15px;
-  /* border-radius: 10px; */
-  border-top-left-radius:5px ;
-  border-top-right-radius:5px ;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  bottom: 50px;
+  color: #fff;
   cursor: pointer;
+  border-radius: 10px;
+  font-size: 14px;
   letter-spacing: .7px;
+  padding: 20px 70px;
+  position: absolute;
 }
