@@ -1,0 +1,50 @@
+.blur {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.blur img {
+  position: absolute;
+  top: 6%;
+  width: 42%;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo img{
+  position: absolute;
+  top: 43%;
+  max-width: 300px;
+}
+.nav{
+  position: absolute;
+  top: 0;
+  width: 100%;
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px 60px 0px 60px;
+  z-index: 1;
+}
+.nav-logo img{
+  width: 150px !important;
+}
+.nav-links .nav-btn1{
+  background-color: transparent;
+  padding: 20px;
+  border: none;
+  color: white;
+  font-size: 14px;
+}
+.nav-links .nav-btn2{
+  background-color: transparent;
+  padding: 13px;
+  color: white;
+  font-size: 14px;
+  border: 1px solid white;
+  border-radius: 10px;
+  cursor: pointer;
+}

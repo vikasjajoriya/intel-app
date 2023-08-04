@@ -1,0 +1,22 @@
+ .spotlight {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: url("../src/Images/BG\ 1920x968.png") no-repeat;
+  background-position: top center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.spotlight-circle {
+  position: absolute;
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  box-shadow: 0 0 0 9999px rgba(0, 0, 0, 0.95);
+  transform: translate(-50%, -50%);
+  filter: blur(100px);
+}
