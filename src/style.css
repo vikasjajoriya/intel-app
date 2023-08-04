@@ -31,6 +31,7 @@
 }
 .nav-logo img{
   width: 150px !important;
+  cursor: pointer;
 }
 .nav-links .nav-btn1{
   background-color: transparent;
@@ -38,6 +39,7 @@
   border: none;
   color: white;
   font-size: 14px;
+  cursor: pointer;
 }
 .nav-links .nav-btn2{
   background-color: transparent;
@@ -57,4 +59,5 @@
   bottom: 0;
   font-size: 14px;
   border-radius: 10px;
+  cursor: pointer;
 }
