@@ -3,7 +3,7 @@ import "./style.css"
 const Button = () => {
   return (
     <button className='btn3'>
-      Join the waitlist
+      Join the Waitlist
     </button>
   )
 }
