@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import "./Spotlight.css";
 import Navbar from "./Navbar.js"
 import Logowithbg from "./Logowithbg.js";
-
+import Button from "./Button.js";
 const Spotlight = () => {
   const [mousePosition, setMousePosition] = useState({
     x: window.innerWidth / 2,
@@ -29,6 +29,7 @@ const Spotlight = () => {
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.3 }}
         ></motion.div>
+        <Button/>
       </div>
     </>
   );
