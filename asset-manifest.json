@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/intel-app/static/css/main.b44f6a40.css",
+    "main.css": "/intel-app/static/css/main.922533a1.css",
     "main.js": "/intel-app/static/js/main.14209579.js",
     "static/js/787.dcc95f0c.chunk.js": "/intel-app/static/js/787.dcc95f0c.chunk.js",
     "static/media/BG 1920x968.png": "/intel-app/static/media/BG 1920x968.3c5cfc81a74891c1f767.png",
@@ -8,12 +8,12 @@
     "static/media/Intellivisa Logo with AI Final.svg": "/intel-app/static/media/Intellivisa Logo with AI Final.70cc4a271ca314df42dd5e683fd99206.svg",
     "static/media/Logo powered by.svg": "/intel-app/static/media/Logo powered by.0ab21f63e43dc7d26868285e83d5a339.svg",
     "index.html": "/intel-app/index.html",
-    "main.b44f6a40.css.map": "/intel-app/static/css/main.b44f6a40.css.map",
+    "main.922533a1.css.map": "/intel-app/static/css/main.922533a1.css.map",
     "main.14209579.js.map": "/intel-app/static/js/main.14209579.js.map",
     "787.dcc95f0c.chunk.js.map": "/intel-app/static/js/787.dcc95f0c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b44f6a40.css",
+    "static/css/main.922533a1.css",
     "static/js/main.14209579.js"
   ]
 }
